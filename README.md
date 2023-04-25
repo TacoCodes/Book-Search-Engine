@@ -35,7 +35,7 @@ This book search engine allows a user to search for books and save them!
 * ISC
 
 ## Inspiration
-The starter code was cloned and changed to a MERN format by Alex Chigas.
+The starter code was cloned and changed to a MERN format by Alex Sanchez.
 
 ## Contact
 * Alex Sanchez (TacoCodes)
